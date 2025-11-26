@@ -1,0 +1,23 @@
+{
+  "name": "coesaoacoplamento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "tsx ./src/index",
+    "ex01": "tsx ./src/ex01",
+    "ex02": "tsx ./src/ex02",
+    "ex03": "tsx ./src/ex03",
+    "ex04": "tsx ./src/ex04",
+    "ex05": "tsx ./src/ex05"
+  },
+  "keywords": [],
+  "author": "Alisson Gritti",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
